@@ -90,7 +90,7 @@ The system integrates IoT sensors with a machine learning model:
 
 ```bash
 # Clone the repository
-git clone https://github.com/chayon20/Crop-Recommendation-System
+git clone https://github.com/shuv001/Crop-Recommendation-System
 cd Crop-Recommendation-System
 
 # Install dependencies
